@@ -7,5 +7,7 @@ export class Loactions {
   lat: string;
   lng: string;
 
-  constructor() { }
+  constructor(lat: string, lng: string) {
+
+  }
 }
